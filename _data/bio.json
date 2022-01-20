@@ -2,7 +2,7 @@
   "basics": {
     "name": "Hyuma Tsuchiya",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://techfolios.github.io/images/myface.png",
     "email": "hyumat@hawaii.edu",
     "phone": "",
     "website": "https://hyumat13.github.io",
@@ -24,34 +24,23 @@
         "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
+      
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "guitar",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "reading manga",
       "keywords": [
       ]
     }
