@@ -3,42 +3,28 @@ layout: project
 type: project
 image: images/kyoukai.png
 title: Mechanic/Technician work at my church
-permalink: projects/micromouse
-# All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+permalink: 
+date: 2022-01-20
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Christian
+  - Extracurricular
+summary: I was helping out with the audio, lighting systems in the back for my church worship service.
 ---
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Ever since I was 7-8 years old, I went to church every sunday with my mother and my little sisters. Not just my friends but everyone there was like a family to me and I'm still in touch with most of them even after I left a few years back. The morning service begins at 9:00am and I me and my family would usually arrive 5 minutes late because we take too much time to get ready to leave the house. When I enter the worship hall, my friends would be sitting in the right side close to the windows and I would quietly make my way to join them. After the pastor gives a quick short-talk to start off the service, the lights on the ceiling turn on the stage as well as the hall. The choir team starts to sings what we called the greeting song, where we all stand up and greet each other one after another. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+When I had entered highschool, I was asked to help out with the mechanics team with the lighting and audio for the morning service so I decided to try it out. At first, I was confused with all the buttons and switches that I had no idea what it did. It also felt weird in a sense that I was inside the control room where we were told not to enter as kids. After getting a hang of the basic procedure, I was standing at the control room the next sunday. It was an unforgettable experience mostly because it was something I had always seen happen at the services but had never thought about that someone was controlling all of the lights and audio in the back. I learned that there is always someone working in the back even though I always took it as is it were granted.
 
-Here is some code that illustrates how we read values from the line sensors:
 
 ```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+
 
 
 
