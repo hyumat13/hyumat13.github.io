@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/kyoukai.jpg
-title: Micromouse
+image: images/kyoukai.png
+title: Mechanic/Technician work at my church
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
