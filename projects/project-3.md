@@ -8,54 +8,9 @@ permalink:
 date: 2022-01-20
 labels:
   - Engineering
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: At the time, I was really into computer games so I built myself a gaming computer.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+I have always been a kid who loves to play video games. The first computer game I played that I can remember is minecraft back when I was a middle schooler. The reason I was able to play minecraft when I had basically no allowance at that time was because a friend let me "borrow" his 2nd account. I still remember the account name "wizardcow" with some random number behind it which if I remember correctly was 32. Anyways as time went by I was a highschooler and at that moment of my life I was immensely into fortnite. I was luckily working part time and had the money so I decided to get myself a gaming pc to step up my game. 
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Having almost no prior knowledge to building pc's, I watched all the youtube videos I can and made sure that all of my parts would be compatible. As soon as all of my part arrived, I put on my anti static electricity gloves and worked till the sun went down. The biggest problem that I faced was after I had everything set up and ready to go. I noticed that a high-spec gaming pc doesnt make my gameplay much better.  After all the money spent, I was not much different than when I was playing on my old HP laptop. All jokes aside, one issue that I later had is that the power supply was a little weak for my build and caused some blackouts until I replaced it with something better. This was a great experience that it taught me to learn to something from zero knowledge and to accomplish it with my own hands.
