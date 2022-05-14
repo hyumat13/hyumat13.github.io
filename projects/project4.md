@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pele.png
+image: images/pele.jpg
 title: Walking with Pele
 permalink: 
 
@@ -12,8 +12,8 @@ summary: For the final project for ICS 314, my group created a web application t
 ---
 
 <div class="ui medium images">
-  <img class="ui image" src="../images/wwp1.jpg">
-  <img class="ui image" src="../images/wwp2.jpg">
+  <img class="ui image" src="../images/wwp1.png">
+  <img class="ui image" src="../images/wwp2.png">
 </div>
 
 Walking with Pele is a web application made using Meteor and Semantic UI framework that my group created for our final project. It organizes and introduces activities that can be done on Hawaii for new and incoming UH students. We used issue driven project management to organize our code building progress. An issue will have a simple task like "implement mockup for home page" for example. One person will be assigned to this task and all of the work will be done in its own copy of the master code, this is so that we do not accidentally mess up what we already created and to not overwrite a code that some other team member is working on at the same time.  
