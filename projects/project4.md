@@ -8,7 +8,7 @@ permalink:
 date: 2022-05-13
 labels:
   - Engineering
-summary: For the final project for ICS 314, my group created a web application that introduces and escorts new and ongoing UH students to the countless activities that can be done in Hawaii. 
+summary: For the final project for ICS 314, my group created a web application that introduces and escorts new and ongoing UH students to the countless activities to do Hawaii. 
 ---
 
 <div class="ui medium images">
